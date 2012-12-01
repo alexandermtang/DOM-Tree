@@ -1,1 +1,5 @@
+Class assignment for CS112 - Data Structures
+
+Builds DOM Tree from HTML input and does various modifications on it
+
 See /structures/Tree.java for implementation
